@@ -1,0 +1,15 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+        "agent": "./src/agents/main.py:agent",
+        "simple": "./src/agents/simple.py:agent",
+        "rag": "./src/agents/rag.py:agent",
+        "support": "./src/agents/support/agent.py:agent",
+        "react": "./src/agents/react.py:agent",
+        "booking": "./src/agents/support/nodes/booking/node.py:booking_node",
+        "code_review": "./src/agents/code_review.py:agent",
+        "ochestrator": "./src/agents/orchestrator.py:agent",
+        "evaluator": "./src/agents/evaluator.py:agent"
+    },
+    "env": ".env"
+}

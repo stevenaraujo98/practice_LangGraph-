@@ -1,0 +1,10 @@
+langchain
+langgraph
+langgraph-cli
+langchain-google-genai
+langchain-deepseek
+langchain-openai
+langchain-anthropic
+langchain-google-vertexai
+langgraph-cli[inmem]
+uv
