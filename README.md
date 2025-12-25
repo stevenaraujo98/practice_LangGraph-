@@ -1,3 +1,5 @@
+Un ejemplo solo con langchain y bancario `https://github.com/byrdeloor9/AGENTE-BANCARIO-IA/tree/main`.  
+
 crear entorno virtual
 ```
 python -m venv .venv
